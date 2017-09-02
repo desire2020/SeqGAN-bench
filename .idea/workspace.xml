@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5038be9e-984d-4af2-8331-21fadcec57ef" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/SeqGAN-bench.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model_settings.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dataloader.py" afterPath="$PROJECT_DIR$/dataloader.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rollout.py" afterPath="$PROJECT_DIR$/rollout.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sequence_gan.py" afterPath="$PROJECT_DIR$/sequence_gan.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target_lstm.py" afterPath="$PROJECT_DIR$/target_lstm.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/model_settings.py" afterPath="$PROJECT_DIR$/model_settings.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -46,7 +37,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sequence_gan.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="sequence_gan.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sequence_gan.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
@@ -58,11 +49,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="model_settings.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="model_settings.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/model_settings.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
-              <caret line="3" column="24" lean-forward="true" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+              <caret line="3" column="21" lean-forward="false" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -112,11 +103,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/model_settings.py" />
         <option value="$PROJECT_DIR$/rollout.py" />
         <option value="$PROJECT_DIR$/dataloader.py" />
         <option value="$PROJECT_DIR$/target_lstm.py" />
         <option value="$PROJECT_DIR$/sequence_gan.py" />
+        <option value="$PROJECT_DIR$/model_settings.py" />
       </list>
     </option>
   </component>
@@ -281,14 +272,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/model_settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="24" lean-forward="true" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sequence_gan.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -296,6 +279,14 @@
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model_settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="21" lean-forward="false" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+          <folding />
         </state>
       </provider>
     </entry>
